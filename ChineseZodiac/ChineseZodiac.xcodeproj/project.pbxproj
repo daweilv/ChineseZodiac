@@ -26,6 +26,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		CE99C7711B0F731A007C61F6 /* MyPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MyPlayground.playground; sourceTree = "<group>"; };
 		CE9CEC481B058983002E9222 /* ChineseZodiac.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ChineseZodiac.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CE9CEC4C1B058983002E9222 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		CE9CEC4D1B058983002E9222 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -83,6 +84,7 @@
 				CE9CEC541B058983002E9222 /* Images.xcassets */,
 				CE9CEC561B058983002E9222 /* LaunchScreen.xib */,
 				CE9CEC4B1B058983002E9222 /* Supporting Files */,
+				CE99C7711B0F731A007C61F6 /* MyPlayground.playground */,
 			);
 			path = ChineseZodiac;
 			sourceTree = "<group>";
@@ -411,6 +413,7 @@
 				CE9CEC691B058983002E9222 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		CE9CEC6A1B058983002E9222 /* Build configuration list for PBXNativeTarget "ChineseZodiacTests" */ = {
 			isa = XCConfigurationList;
@@ -419,6 +422,7 @@
 				CE9CEC6C1B058983002E9222 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
